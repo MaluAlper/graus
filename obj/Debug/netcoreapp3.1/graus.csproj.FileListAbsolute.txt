@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\graus\graus\bin\Debug\netcoreapp3.1\graus.exe
+C:\Users\Maria Luiza\Documents\Luiza\graus\graus\bin\Debug\netcoreapp3.1\graus.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\graus\graus\bin\Debug\netcoreapp3.1\graus.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\graus\graus\bin\Debug\netcoreapp3.1\graus.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\graus\graus\bin\Debug\netcoreapp3.1\graus.dll
+C:\Users\Maria Luiza\Documents\Luiza\graus\graus\bin\Debug\netcoreapp3.1\graus.pdb
+C:\Users\Maria Luiza\Documents\Luiza\graus\graus\obj\Debug\netcoreapp3.1\graus.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\graus\graus\obj\Debug\netcoreapp3.1\graus.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\graus\graus\obj\Debug\netcoreapp3.1\graus.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\graus\graus\obj\Debug\netcoreapp3.1\graus.dll
+C:\Users\Maria Luiza\Documents\Luiza\graus\graus\obj\Debug\netcoreapp3.1\graus.pdb
